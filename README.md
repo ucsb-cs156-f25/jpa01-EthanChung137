@@ -1,6 +1,6 @@
 # jpa01-ethanchung137
 
-Deployed at: https://jpa01-ethanchung137.dokku-11.cs.ucsb.edu/
+Deployed at: https://jpa01-ethanchung137.dokku-11.cs.ucsb.edu
 
 
 # About this repo
